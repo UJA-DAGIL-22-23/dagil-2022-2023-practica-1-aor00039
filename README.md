@@ -23,3 +23,11 @@ Estudiante de Informática de la Universidad de Jaén.
 - Email: aor00039@red.ujaen.es
 - URL del repositorio en GitHub: https://github.com/aor00039/aor00039.git 
 - Imagen del repositorio en GitHub: [![Repositorio-aor00039.png](https://i.postimg.cc/Y0WxWVXz/Repositorio-aor00039.png)](https://postimg.cc/y379qfCD)
+
+#### ----3º tarea---- Tareas en GitHub Classroom (Realizado anteriormente)
+### Álvaro Ordóñez Romero
+
+Estudiante de Informática de la Universidad de Jaén.
+* **Correo**: aor00039@red.ujaen.es
+* **GitHub**: https://github.com/aor00039/aor00039.git
+* **Trello**: https://trello.com/b/21PkwH9A/aor00039
