@@ -12,3 +12,8 @@ Estudiante de Informática de la Universidad de Jaén.
 * **Correo**: aor00039@red.ujaen.es
 * **GitHub**: https://github.com/aor00039/aor00039.git
 * **Trello**: https://trello.com/b/21PkwH9A/aor00039
+
+## Fichero datos.json:
+<code>
+  datos.json
+</code>
